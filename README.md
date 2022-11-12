@@ -21,5 +21,5 @@ Python Tutorials for YouTube
 |W3school|https://www.w3schools.com/python|-|
 |Sololearn|https://www.sololearn.com|-|
 |Python Official docs| https://docs.python.org/3/ | - |
-
+|Automate the boring stuff|https://automatetheboringstuff.com/|-|
 ---
