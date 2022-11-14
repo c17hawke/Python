@@ -1,7 +1,9 @@
 # Python
 Python Tutorials for YouTube
 
-## Python tutorials on my channel -
+## Python tutorials on my channel [SUNNY BHAVEEN CHANDRA](https://www.youtube.com/c/c17hawke) -
+
+### [Python playlist](https://youtube.com/playlist?list=PLrdaCCBhU_hnxIzB7EJlY-pfYOMGRycAK)
 
 |SNo| Topic | SubTopic | Link |
 |-|-|-|-|
