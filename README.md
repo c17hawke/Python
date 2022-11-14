@@ -1,6 +1,13 @@
 # Python
 Python Tutorials for YouTube
 
+## Python tutorials on my channel -
+
+|SNo| Topic | SubTopic | Link |
+|-|-|-|-|
+|001|Installation|-|[How to do the basic setup for any python, ML, DL, projects on windows10 or 11?](https://youtu.be/bVM-QujJ0AI)|
+||-|-|-|
+
 ## Best OpenSource Python references to learn and practice
 
 ### Price: You just need to pay **`$attention`**
