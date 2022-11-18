@@ -9,8 +9,23 @@ Python Tutorials for YouTube
 
 |SNo| Topic | SubTopic | Link |
 |-|-|-|-|
+|-| Introduction |-|-| 
 |001|Installation|-|[How to do the basic setup for any python, ML, DL, projects on windows10 or 11?](https://youtu.be/bVM-QujJ0AI)|
-||-|-|-|
+|-| Variables |-|-|
+|-| Expressions, Operators, and Precedence |-|-|
+|-| Control Flow |-|-|
+|-| inbuilt data structures |-|-|
+|-| Functions |-|-|
+|-| Iterators and Generators |-|-|
+|-| File Operations |-|-|
+|-| Important Built in modules |-|-|
+|-| Modules and Import statements |-|-|
+|-| OOPs |-|-|
+|-| Expection Handling |-|-|
+|-| logging |-|-|
+|-| debugging |-|-|
+|-|-|-|-|
+
 
 ## Best OpenSource Python references to learn and practice
 
