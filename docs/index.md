@@ -12,7 +12,7 @@ Following is the outline of the course -
 - Comments
 - Errors and Exceptions
 
-> Example code - [getting started notebook](https://github.com/c17hawke/Python/noteboooks/001-getting-started)
+> Example code - [getting started notebook](https://github.com/c17hawke/Python/noteboooks/notes.ipynb)
 
 ## Variables
 
