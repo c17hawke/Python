@@ -3,8 +3,7 @@ site_name: Python by c17hawke
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - Getting started: noteboooks/001-getting-started/001.ipynb
-  - Variables: noteboooks/002_variables/variables.ipynb
+  - Getting started: noteboooks/001-getting-started/notes.ipynb
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
