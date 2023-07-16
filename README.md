@@ -1,6 +1,8 @@
 # Python
 Python Tutorials for YouTube
 
+> For Notebooks and code examples -> [click here](./docs/noteboooks/)
+
 > ## Project board to check the progress of the content - [**Python | Board**](https://github.com/users/c17hawke/projects/13/views/1)
 
 ## Python tutorials on my channel [SUNNY BHAVEEN CHANDRA](https://www.youtube.com/c/c17hawke) -
