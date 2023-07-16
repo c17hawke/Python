@@ -4,7 +4,16 @@ Following is the outline of the course -
 
 ## Introduction
 
+### Start thinking in Python -
+<iframe width="630" height="330" src="https://www.youtube.com/embed/o1qWUdBeYoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Installation
+
+[Detailed installation video](https://youtu.be/bVM-QujJ0AI)
+
+<iframe width="630" height="330" src="https://www.youtube.com/embed/bVM-QujJ0AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+
 
 ## Getting Started
 
@@ -12,7 +21,7 @@ Following is the outline of the course -
 - Comments
 - Errors and Exceptions
 
-> Example code - [getting started notebook](https://github.com/c17hawke/Python/noteboooks/notes.ipynb)
+> Example code - [getting started notes](https://github.com/c17hawke/Python/docs/noteboooks/001-getting-started/notes.ipynb)
 
 ## Variables
 
