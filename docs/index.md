@@ -21,7 +21,7 @@ Following is the outline of the course -
 - Comments
 - Errors and Exceptions
 
-> Example code - [getting started notes](https://github.com/c17hawke/Python/docs/noteboooks/001-getting-started/notes.ipynb)
+> notes - [getting started notes](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/)
 
 ## Variables
 
