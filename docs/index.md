@@ -30,6 +30,8 @@ Following is the outline of the course -
 - id()
 - Examples
 
+> notes - [Variable notes](https://c17hawke.github.io/Python/noteboooks/002-variables-in-python/notes/)
+
 ## Data Types
 
 ## Numbers
