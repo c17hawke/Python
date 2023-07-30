@@ -67,18 +67,17 @@ same as Python keywords or inbuilt functions.
 vocabulary of Python language.
 """
 
-# # against the above rule
-# print = 12
-# y  = 2
-# print(print)
+# against the above rule
+print = 12
+print(print)
 
-# # to print the keywords present in python
-# import keyword
-# print(keyword.kwlist)
+# to print the keywords present in python
+import keyword
+print(keyword.kwlist)
 
-# # to print the builtins present in python
-# import builtins
-# print(dir(builtins))
+# to print the builtins present in python
+import builtins
+print(dir(builtins))
 
 
 """
@@ -104,17 +103,28 @@ FEATURES
 1. There is no need to declare a 
 variable before assigning a value to it.
 """
+# other languages
+# int x = 2
+
+
 x = 2
 y = "sample text"
 
-"""
 
+# advance - TYPE hinting
+x: int = 2
+y: str = "example text"
+
+"""
 2. You can assign values to multiple 
 variables in one line.
 """
-x, y, z = 2, "sample text", 100
+# x = 235
+# y = 135
+# z = 12
+x, y, z = 235, 135, "text" # allowed 
+print(x,y,z)
 
-print(x , y, z)
 
 # More real-world examples -
 
@@ -125,12 +135,14 @@ area_of_rectangle = length * width
 perimeter = 2 * (length + width)
 
 print(f"for rectangle with length: {length} and width: {width}")
-print(f"area of rectangle = {area_of_rectangle}")
-print(f"Perimeter of rectangle = {perimeter}")
+print(f"Area of rectangle: {area_of_rectangle} unit-square")
+print(f"Perimeter of rectangle: {perimeter} units")
 
-cost_of_shirt_per_unit = 600
+cost_of_shirt = 600
 units_to_purchase = 3
 
-amount_payable = cost_of_shirt_per_unit * units_to_purchase
-print("Amount payable (in INR):", amount_payable)
+amount_payable = cost_of_shirt * units_to_purchase
+print(f"Cost of 1 shirt: {cost_of_shirt}")
+print(f"Units to purchase: {units_to_purchase}")
+print(f"Amount payable (in INR): {amount_payable}")
 
