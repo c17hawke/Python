@@ -7,4 +7,4 @@
 
 <!-- <a href="noteboooks/000-intro-to-python/python_notes_updated.pdf">Open PDF</a> -->
 
-<!-- <embed src="./docs/noteboooks/000-intro-to-python/python_notes_updated.pdf" width="500" height="375" type="application/pdf"> -->
+<embed src="blob:https://github.com/7df8925e-24d2-42d6-894d-9ee7da8e906f" width="500" height="375" type="application/pdf">

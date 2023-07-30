@@ -3,9 +3,9 @@ site_name: Python by c17hawke
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  # - Introduction to Python:
-  #     - pdf: noteboooks/000-intro-to-python/python_notes_updated.pdf
-  - Introduction to Python: noteboooks/000-intro-to-python/notes.md
+  - Introduction to Python:
+      - pdf: noteboooks/000-intro-to-python/python_notes_updated.pdf
+  # - Introduction to Python: noteboooks/000-intro-to-python/notes.md
   - Getting started: noteboooks/001-getting-started/notes.ipynb
   - Variables: noteboooks/002-variables-in-python/notes.ipynb
 
