@@ -8,11 +8,15 @@ lecture = "Introduction to python"
 print("This is a lecture of:", lecture)
 
 # f-string way to write above statement - Most frequently used
-print(f"This is a lecture of: {lecture}")
+lecture = "Introduction to python"
+print(f"This is a lecture of: {lecture}") # do not forget f in the beginning
+
 name = "Sunny"
 print(f"My name is: {name}")
+
 age = 52
 print(f"My age is: {age}")
+
 print(f"My name is {name} and My age is {age} years")
 
 # write a table of a no. upto 10
@@ -80,10 +84,10 @@ vocabulary of Python language.
 """
 CONVENTIONS
 """
-# following is an example of a hidden variable
+# following is an example of declaring a hidden variable
 _variable = 200
 
-# Generatlly names of variables should start with small letters
+# Generally names of variables should start with small letters
 variable = 200
 x_val = 100
 
@@ -113,6 +117,16 @@ x, y, z = 2, "sample text", 100
 print(x , y, z)
 
 # More real-world examples -
+
+length = 10
+width = 20
+
+area_of_rectangle = length * width
+perimeter = 2 * (length + width)
+
+print(f"for rectangle with length: {length} and width: {width}")
+print(f"area of rectangle = {area_of_rectangle}")
+print(f"Perimeter of rectangle = {perimeter}")
 
 cost_of_shirt_per_unit = 600
 units_to_purchase = 3
