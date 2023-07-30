@@ -14,6 +14,15 @@ Following is the outline of the course -
 <iframe width="630" height="330" src="https://www.youtube.com/embed/bVM-QujJ0AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 
+## Introduction to Python
+
+- What is programming language?
+- What is Python?
+- Why Python?
+- What can we do with Python?
+- Drawback of Python?
+
+> notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/notes/)
 
 ## Getting Started
 
