@@ -26,18 +26,23 @@ Following is the outline of the course -
 
 ## Getting Started
 
-- Syntax
-- Comments
-- Errors and Exceptions
+- Hello world!
+- Comments in python
+- Errors / Exception in python
+  - The difference between Error and Exception with examples
+    - Error
+    - Exception
+- Explore about the above error messages in chatGPT or Bing Chat
 
-> notes - [getting started notes](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/)
+> notes - [Getting started notes](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/)
 
 ## Variables
 
 - Define a Variable
 - Rules for defining the variables in Python
-- id()
-- Examples
+- Conventions for defining the variables in Python
+- Features for defining the variables in Python
+- More real world examples
 
 > notes - [Variable notes](https://c17hawke.github.io/Python/noteboooks/002-variables-in-python/notes/)
 
