@@ -22,7 +22,7 @@ Following is the outline of the course -
 - What can we do with Python?
 - Drawback of Python?
 
-> notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/notes/)
+> notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/python_notes_updated.pdf)
 
 ## Getting Started
 
