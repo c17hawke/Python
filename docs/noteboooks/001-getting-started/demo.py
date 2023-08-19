@@ -1,10 +1,11 @@
 """
 Author: SUNNY BHAVEEN CHANDRA
+
 For more information - 
-[1] Python notes-
+- [1] Python notes-
     https://c17hawke.github.io/Python/
 
-[2] Python Playlist- 
+- [2] Python YouTube Playlist- 
     https://youtube.com/playlist?list=PLrdaCCBhU_hnxIzB7EJlY-pfYOMGRycAK
 
 """
