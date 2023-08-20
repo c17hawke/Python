@@ -1,6 +1,11 @@
 # Welcome to Python course by Sunny
 
-Following is the outline of the course - 
+Watch Complete YouTube playlist here -
+
+<iframe width="630" height="330" src="https://www.youtube.com/embed/videoseries?list=PLrdaCCBhU_hnxIzB7EJlY-pfYOMGRycAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+Following is the outline of the course with respective videos and notes- 
 
 ## Introduction
 
@@ -28,6 +33,8 @@ Following is the outline of the course -
 > notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/python_notes_updated.pdf)
 
 ## Getting Started
+
+<iframe width="630" height="330" src="https://www.youtube.com/embed/2wh3RJLQrn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Hello world!
 - Comments in python
