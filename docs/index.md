@@ -16,6 +16,9 @@ Following is the outline of the course -
 
 ## Introduction to Python
 
+<iframe width="630" height="330" src="https://www.youtube.com/embed/0-tr-RNDpn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+
 - What is programming language?
 - What is Python?
 - Why Python?
