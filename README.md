@@ -1,6 +1,10 @@
 # Python
 Python Tutorials for YouTube
 
+Check the following for complete youtube playlist -
+[<img src="https://raw.githubusercontent.com/c17hawke/Python/main/docs/img/playlist_icon.png" alt="Girl in a jacket" width="630" height="330">](https://youtube.com/playlist?list=PLrdaCCBhU_hnxIzB7EJlY-pfYOMGRycAK)
+
+
 > For Notebooks and code examples -> [click here](./docs/noteboooks/)
 
 > ## Project board to check the progress of the content - [**Python | Board**](https://github.com/users/c17hawke/projects/13/views/1)
