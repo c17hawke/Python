@@ -48,6 +48,8 @@ Following is the outline of the course with respective videos and notes-
 
 ## Variables
 
+<iframe width="630" height="330" src="https://www.youtube.com/embed/uiMIxUvYYpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - Define a Variable
 - Rules for defining the variables in Python
 - Conventions for defining the variables in Python
