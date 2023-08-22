@@ -62,6 +62,15 @@ Following is the outline of the course with respective videos and notes-
 
 ## Data Types
 
+- What is data-types?
+- Real-life example from school days
+- Real-life example from Amazon ecommerce website
+- Hands-on using python for above examples 
+
+> notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button }
+> notes - [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_updated.pdf){ .md-button }
+
+
 ## Numbers
 
 ## Casting

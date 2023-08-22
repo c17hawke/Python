@@ -8,6 +8,7 @@ nav:
   # - Introduction to Python: noteboooks/000-intro-to-python/notes.md
   - Getting started: noteboooks/001-getting-started/notes.ipynb
   - Variables: noteboooks/002-variables-in-python/notes.ipynb
+  - Data-types: noteboooks/003-data-types/notes.ipynb
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
