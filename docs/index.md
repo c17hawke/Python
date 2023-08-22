@@ -62,13 +62,14 @@ Following is the outline of the course with respective videos and notes-
 
 ## Data Types
 
-- What is data-types?
-- Real-life example from school days
-- Real-life example from Amazon ecommerce website
-- Hands-on using python for above examples 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AXPlI0geu2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button }
-> notes - [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_data_types.pdf){ .md-button }
+- Introduction to data types?
+- Real-life example from school days
+- Real-life example from Amazon E-commerce website
+- Hands-on using Python for the above examples 
+
+> notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button } | [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_data_types.pdf){ .md-button }
 
 
 ## Numbers
