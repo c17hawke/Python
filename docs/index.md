@@ -4,6 +4,8 @@ Watch Complete YouTube playlist here -
 
 <iframe width="630" height="330" src="https://www.youtube.com/embed/videoseries?list=PLrdaCCBhU_hnxIzB7EJlY-pfYOMGRycAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[Subscribe to my channel](https://www.youtube.com/@c17hawke){ .md-button .md-button--primary }
+
 
 Following is the outline of the course with respective videos and notes- 
 
@@ -30,7 +32,7 @@ Following is the outline of the course with respective videos and notes-
 - What can we do with Python?
 - Drawback of Python?
 
-> notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/python_notes_updated.pdf)
+> notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/python_notes_updated.pdf){ .md-button }
 
 ## Getting Started
 
@@ -44,7 +46,7 @@ Following is the outline of the course with respective videos and notes-
     - Exception
 - Explore about the above error messages in chatGPT or Bing Chat
 
-> notes - [Getting started notes](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/)
+> notes - [Getting started notes](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/){ .md-button }
 
 ## Variables
 
@@ -56,7 +58,7 @@ Following is the outline of the course with respective videos and notes-
 - Features for defining the variables in Python
 - More real world examples
 
-> notes - [Variable notes](https://c17hawke.github.io/Python/noteboooks/002-variables-in-python/notes/)
+> notes - [Variable notes](https://c17hawke.github.io/Python/noteboooks/002-variables-in-python/notes/){ .md-button }
 
 ## Data Types
 
