@@ -22,9 +22,10 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
-    - toc.integrate
+    # - navigation.sections
+    # - toc.integrate
     - navigation.top
+    - navigation.path
   language: en
   palette:
     - scheme: default
@@ -75,6 +76,8 @@ markdown_extensions:
       relative_path: ''
       absolute: true
       tags: 'a script img link object embed'
+  - attr_list
+  - md_in_html
 
 plugins:
   - search
