@@ -68,7 +68,7 @@ Following is the outline of the course with respective videos and notes-
 - Hands-on using python for above examples 
 
 > notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button }
-> notes - [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_updated.pdf){ .md-button }
+> notes - [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_data_types.pdf){ .md-button }
 
 
 ## Numbers
