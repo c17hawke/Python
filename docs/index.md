@@ -12,18 +12,22 @@ Following is the outline of the course with respective videos and notes-
 ## Introduction
 
 ### Start thinking in Python -
-<iframe width="630" height="330" src="https://www.youtube.com/embed/o1qWUdBeYoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1qWUdBeYoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 
 ## Installation
 
 [Detailed installation video](https://youtu.be/bVM-QujJ0AI)
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/bVM-QujJ0AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVM-QujJ0AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
+
+---
 
 ## Introduction to Python
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/0-tr-RNDpn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-tr-RNDpn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 
 - What is programming language?
@@ -34,9 +38,11 @@ Following is the outline of the course with respective videos and notes-
 
 > notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/python_notes_updated.pdf){ .md-button }
 
+---
+
 ## Getting Started
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/2wh3RJLQrn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2wh3RJLQrn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Hello world!
 - Comments in python
@@ -48,9 +54,11 @@ Following is the outline of the course with respective videos and notes-
 
 > notes - [Getting started notes](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/){ .md-button }
 
+---
+
 ## Variables
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/uiMIxUvYYpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiMIxUvYYpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Define a Variable
 - Rules for defining the variables in Python
@@ -59,6 +67,8 @@ Following is the outline of the course with respective videos and notes-
 - More real world examples
 
 > notes - [Variable notes](https://c17hawke.github.io/Python/noteboooks/002-variables-in-python/notes/){ .md-button }
+
+---
 
 ## Data Types
 
@@ -71,8 +81,11 @@ Following is the outline of the course with respective videos and notes-
 
 > notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button } | [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_data_types.pdf){ .md-button }
 
+---
 
 ## User input, data type casting and conversions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbI6HX4tn2o?si=wx_h9uVhvho5pDVp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - user-input: Python's inbuilt input method?
 - Why we need type conversions
@@ -81,9 +94,10 @@ Following is the outline of the course with respective videos and notes-
 
 > notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/004-type-conversions-user-input/notes/){ .md-button }
 
+---
+
 ## Numbers
 
-## Casting
 
 ## Strings
 
