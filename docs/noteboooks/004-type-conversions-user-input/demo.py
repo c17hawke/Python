@@ -1,3 +1,14 @@
+"""
+Author: SUNNY BHAVEEN CHANDRA
+
+For more information - 
+- [1] Python notes-
+    https://c17hawke.github.io/Python/
+
+- [2] Python YouTube Playlist- 
+    https://youtube.com/playlist?list=PLrdaCCBhU_hnxIzB7EJlY-pfYOMGRycAK
+"""
+
 # User input in Python
 # Data-type conversion | implicit conversions
 # Data-type casting | explicit conversions
