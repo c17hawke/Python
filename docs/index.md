@@ -72,6 +72,15 @@ Following is the outline of the course with respective videos and notes-
 > notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button } | [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_data_types.pdf){ .md-button }
 
 
+## User input, data type casting and conversions
+
+- user-input: Python's inbuilt input method?
+- Why we need type conversions
+- Implicit type conversions aka Data type conversions
+- Explicit type conversions aka Data type casting
+
+> notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/004-type-conversions-user-input/notes/){ .md-button }
+
 ## Numbers
 
 ## Casting
