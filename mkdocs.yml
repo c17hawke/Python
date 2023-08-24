@@ -54,6 +54,9 @@ extra:
       link: https://linkedin.com/in/c17hawke
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/c17hawke/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c17hawke
+
 
 extra_javascript:
   - javascripts/mathjax.js
