@@ -98,24 +98,29 @@ Following is the outline of the course with respective videos and notes-
 
 ## Numbers
 
+- integers
+  - large integers
+- floating point numbers
+  - large float values
+  - scientific notation
+- complex numbers
+- inbuilt functions/methods for numbers
+  - `abs`, `divmod`, `pow`, and `round`
 
 ## Strings
 
 - Python Strings
-- Slicing Strings
+-Indexing and Slicing Strings
 - Modify Strings
 - Concatenate Strings
 - Format Strings
 - Escape Characters
 - String Methods
 - String Exercises
-- String Formatting
 
 ## Booleans
 
 ## Operators
-
-## User Input
 
 ## Lists
 
