@@ -87,10 +87,11 @@ Following is the outline of the course with respective videos and notes 📝 -
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbI6HX4tn2o?si=wx_h9uVhvho5pDVp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- User-input: Python's inbuilt input method? 🔍
-- Why we need type conversions 🤔
-- Implicit type conversions aka Data type conversions 🔍
-- Explicit type conversions aka Data type casting 🔍
+- User-input: Python's inbuilt input method? 📥
+- Why we need type conversions 🔍
+- Handling various data-types and it's conversion 🔧
+    - Implicit type conversions aka Data type conversions 🔄
+    - Explicit type conversions aka Data type casting 🎛️
 
 > notes - [Data Types notes 📝](https://c17hawke.github.io/Python/noteboooks/004-type-conversions-user-input/notes/){ .md-button }
 
