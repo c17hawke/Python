@@ -2,7 +2,7 @@
 site_name: Python by c17hawke
 # defeine TOC or order of website-
 nav:
-  - Home 🏡: index.md
+  - Home: index.md
   - Introduction to Python 🐍:
       - pdf: noteboooks/000-intro-to-python/python_notes_updated.pdf
   # - Introduction to Python: noteboooks/000-intro-to-python/notes.md
