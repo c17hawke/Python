@@ -110,7 +110,9 @@ Following is the outline of the course with respective videos and notes 📝 -
     - `divmod` (quotient and remainder) 🔍
     - `pow` (power) 🔍
     - `round` (rounding) 🔍
-  
+
+> notes - [Data Types notes 📝](https://c17hawke.github.io/Python/noteboooks/005-numbers/notes/){ .md-button }
+
 <!-- ## Strings
 
 - Python Strings
