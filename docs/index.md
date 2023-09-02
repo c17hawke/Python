@@ -36,7 +36,7 @@ Following is the outline of the course with respective videos and notes 📝 -
 - What can we do with Python? 🔨
 - Drawback of Python? 😕
 
-> notes: [Introduction to Python notes 📝](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/python_notes_updated.pdf){ .md-button }
+> notes: [Introduction to Python notes 📝](https://c17hawke.github.io/Python/notebooks/000-intro-to-python/python_notes_updated.pdf){ .md-button }
 
 ---
 
@@ -52,7 +52,7 @@ Following is the outline of the course with respective videos and notes 📝 -
     - Exception ⚠️
 - Explore about the above error messages in chatGPT or Bing Chat 💬
 
-> notes - [Getting started notes 📝](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/){ .md-button }
+> notes - [Getting started notes 📝](https://c17hawke.github.io/Python/notebooks/001-getting-started/notes/){ .md-button }
 
 ---
 
@@ -66,7 +66,7 @@ Following is the outline of the course with respective videos and notes 📝 -
 - Features for defining the variables in Python 🔍
 - More real world examples 🌎
 
-> notes - [Variable notes 📝](https://c17hawke.github.io/Python/noteboooks/002-variables-in-python/notes/){ .md-button }
+> notes - [Variable notes 📝](https://c17hawke.github.io/Python/notebooks/002-variables-in-python/notes/){ .md-button }
 
 ---
 
@@ -79,7 +79,7 @@ Following is the outline of the course with respective videos and notes 📝 -
 - Real-life example from Amazon E-commerce website 🛒
 - Hands-on using Python for the above examples 💻
 
-> notes - [Data Types notes 📝](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button } | [Data Types Hand written notes 📝](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_data_types.pdf){ .md-button }
+> notes - [Data Types notes 📝](https://c17hawke.github.io/Python/notebooks/003-data-types/notes/){ .md-button } | [Data Types Hand written notes 📝](https://c17hawke.github.io/Python/notebooks/003-data-types/python_notes_data_types.pdf){ .md-button }
 
 ---
 
@@ -93,7 +93,7 @@ Following is the outline of the course with respective videos and notes 📝 -
     - Implicit type conversions aka Data type conversions 🔄
     - Explicit type conversions aka Data type casting 🎛️
 
-> notes - [Data Types notes 📝](https://c17hawke.github.io/Python/noteboooks/004-type-conversions-user-input/notes/){ .md-button }
+> notes - [Data Types notes 📝](https://c17hawke.github.io/Python/notebooks/004-type-conversions-user-input/notes/){ .md-button }
 
 ---
 
@@ -111,7 +111,7 @@ Following is the outline of the course with respective videos and notes 📝 -
     - `pow` (power) 🔍
     - `round` (rounding) 🔍
 
-> notes - [Numbers notes 📝](https://c17hawke.github.io/Python/noteboooks/005-numbers/notes/){ .md-button }
+> notes - [Numbers notes 📝](https://c17hawke.github.io/Python/notebooks/005-numbers/notes/){ .md-button }
 
 <!-- ## Strings
 

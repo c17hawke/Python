@@ -4,13 +4,13 @@ site_name: Python by c17hawke
 nav:
   - Home: index.md
   - Introduction to Python 🐍:
-      - pdf: noteboooks/000-intro-to-python/python_notes_updated.pdf
-  # - Introduction to Python: noteboooks/000-intro-to-python/notes.md
-  - Getting started: noteboooks/001-getting-started/notes.ipynb
-  - Variables: noteboooks/002-variables-in-python/notes.ipynb
-  - Data-types: noteboooks/003-data-types/notes.ipynb
-  - User input, Data-type casting/conversions: noteboooks/004-type-conversions-user-input/notes.ipynb
-  - Numbers: noteboooks/005-numbers/notes.ipynb
+      - pdf: notebooks/000-intro-to-python/python_notes_updated.pdf
+  # - Introduction to Python: notebooks/000-intro-to-python/notes.md
+  - Getting started: notebooks/001-getting-started/notes.ipynb
+  - Variables: notebooks/002-variables-in-python/notes.ipynb
+  - Data-types: notebooks/003-data-types/notes.ipynb
+  - User input, Data-type casting/conversions: notebooks/004-type-conversions-user-input/notes.ipynb
+  - Numbers: notebooks/005-numbers/notes.ipynb
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
