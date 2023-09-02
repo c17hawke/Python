@@ -111,7 +111,7 @@ Following is the outline of the course with respective videos and notes 📝 -
     - `pow` (power) 🔍
     - `round` (rounding) 🔍
 
-> notes - [Data Types notes 📝](https://c17hawke.github.io/Python/noteboooks/005-numbers/notes/){ .md-button }
+> notes - [Numbers notes 📝](https://c17hawke.github.io/Python/noteboooks/005-numbers/notes/){ .md-button }
 
 <!-- ## Strings
 
