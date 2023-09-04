@@ -99,6 +99,8 @@ Following is the outline of the course with respective videos and notes 📝 -
 
 ## Numbers 🔢
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvUukAuthV0?si=hRQCill-tIpQnoBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - Integers 🔢
     - Large integers 🔍
 - Floats 🔟
@@ -116,7 +118,7 @@ Following is the outline of the course with respective videos and notes 📝 -
 <!-- ## Strings
 
 - Python Strings
--Indexing and Slicing Strings
+- Indexing and Slicing Strings
 - Modify Strings
 - Concatenate Strings
 - Format Strings
